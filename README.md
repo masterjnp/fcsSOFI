@@ -4,6 +4,8 @@ This repository hosts and tracks current progress on the Kisley Lab fcsSOFI upda
 
 fcsSOFI combines the correlation techniques of fluorescence correlation spectroscopy (FCS) and super-resolution optical fluctuation imaging (SOFI) to produce to produce super-resolution spatial maps of diffusion coefficients. This has been applied thus far to understand diffusion and spatial properties of porous and complex materials, including agarose and PNIPAM hydrogels, liquid crystals, and liquid-liquid phase-separated polymer and biomolecule condensates. 
 
+The usages of fcsSOFI for experiments can be found at: Chatterjee, S.; Kramer, S. N.; Wellnitz, B.; Kim, A.; Kisley, L. Spatially Resolving Size Effects on Diffusivity in Nanoporous Extracellular Matrix-Like Materials with Fluorescence Correlation Spectroscopy Super-Resolution Optical Fluctuation Imaging. J. Phys. Chem. B 2023, 127 (20), 4430–4440. https://doi.org/10.1021/acs.jpcb.3c00941.
+
 More details can be found at:
 Kisley, L.; Higgins, D.; Weiss, S.; Landes, C.F.; et al. Characterization of Porous Materials by Fluorescence Correlation Spectroscopy Super-resolution Optical Fluctuation Imaging. ACS Nano 2015, 9, 9158–9166. doi:10.1021/acsnano.5b03430. PMID 26235127.
 
